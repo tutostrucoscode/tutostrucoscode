@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-C#-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-
+https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white
 
 
 <!--
