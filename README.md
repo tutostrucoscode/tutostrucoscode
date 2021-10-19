@@ -1,4 +1,4 @@
-### Hola a todos, aqui JoseFlorez 👋
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hola a todos, aqui JoseFlorez 👋
 
 ### Contacto
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiomix68@gmail.com)](mailto:tiomix68@gmail.com)
